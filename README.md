@@ -6,6 +6,6 @@ This repo contains the projects of Deep Learning Nanodegree on Udacity.</br>
 ---
 1. Project Predicting Bike-Sharing Patterns
 2. [Dog-Breed Classifier](https://github.com/sayaliKutwal/dog-breed-classifier-project)
-3. Generate TV Scripts
+3. [Generate TV Scripts](https://github.com/sayaliKutwal/generate-tv-scripts-project)
 4. Generate Faces
 5. Deploying a Sentimental Analysis Model 
